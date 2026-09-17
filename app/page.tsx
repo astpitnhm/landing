@@ -158,7 +158,7 @@ export default function Page() {
                   <div className="relative w-40 h-40 mx-auto mb-4 rounded-md overflow-hidden">
                     <Image
                       src="/Sharmila-Mary-Joseph-IAS.png"
-                      alt="harmila Mary Joseph IAS IAS"
+                      alt="Sharmila Mary Joseph IAS IAS"
                       fill
                       className="object-cover object-top"
                     />
